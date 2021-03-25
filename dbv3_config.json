@@ -1,0 +1,1 @@
+{"name": "dbv3", "pdb_path": "C:\\test_proteins\\Menv_color\\Menv_color", "json_path": "C:\\Users\\aprak\\PycharmProjects\\top_pro_pack\\temp_json_dir", "exclude_backbone": true, "distance_cutoff": 6, "ignored_paths": ["C:\\test_proteins\\Menv_color\\Menv_color\\6idp.pdb"]}
